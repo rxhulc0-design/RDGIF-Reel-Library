@@ -1,9 +1,11 @@
 {
-    "stickers": [
+  "version": "1.0.0",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/rxhulc0-design/RDGIF-Reel-Library@main/",
+  "videos": [
     {
       "id": "1",
       "title": "JAV (Japanese Adult Video)",
-      "image": "WEBP-Assets/1 Jav-Nple-Chng(1).mp4",
+      "video": "WEBP-Assets/1 Jav-Nple-Chng(1).mp4",
       "category": "foreplay",
       "subcategories": [
         "Nipples",
@@ -23,7 +25,7 @@
     {
       "id": "2",
       "title": "Fucking",
-      "image": "WEBP-Assets/2 Fst-Fckng.mp4",
+      "video": "WEBP-Assets/2 Fst-Fckng.mp4",
       "category": "Rouch",
       "subcategories": [
         "Rough",
@@ -46,7 +48,7 @@
     {
       "id": "3",
       "title": "Touching Others Boobs Penus",
-      "image": "WEBP-Assets/3 Touching-Others-Boobs-Penus.mp4 ",
+      "video": "WEBP-Assets/3 Touching-Others-Boobs-Penus.mp4",
       "category": "Foreplay",
       "subcategories": [
         "Boobs",
@@ -63,7 +65,7 @@
     {
       "id": "4",
       "title": "Tight Pinky Pussy",
-      "image": "WEBP-Assets/4 Tight-Pinky.mp4 ",
+      "video": "WEBP-Assets/4 Tight-Pinky.mp4",
       "category": "Fucking Sex",
       "subcategories": [
         "Pussy",
@@ -82,75 +84,74 @@
       ]
     },
     {
-        "id": "5",
-        "title": " Anime Porn - Sucking Penus, Lund",
-        "image": "WEBP-Assets/5 Anime-Sucking-Penus.mp4 ",
-        "category": "Funny",
-        "subcategories": [
-          "Penis",
-          "Lund",
-          "PlayingFul",
-          "Sucking"
-        ],
-        "keywords": [
-          "Penis",
-          "Lund",
-          "PlayingFul",
-          "Sucking",
-          "Lund",
-          "PlayingFul",
-          "Sucking",
-          "Licking"
-        ]
-      },
-      {
-        "id": "6",
-        "title": "Anime Fucking Purely",
-        "image": "WEBP-Assets/6 Anime-Fcking-Purely.mp4 ",
-        "category": "Funny",
-        "subcategories": [
-          "Tight Pussy",
-          "Purely",
-          "Fucking",
-          "Sexy",
-          "Hot",
-          "Grip"
-        ],
-        "keywords": [
-          "Rough",
-          "Purely",
-          "Fucking",
-          "Sexy",
-          "Hot",
-          "Grip"
-        ]
-      },
-      {
-        "id": "7",
-        "title": "Massive cock tight",
-        "image": "WEBP-Assets/7_Massive-cock-tight.mp4 ",
-        "category": "Funny",
-        "subcategories": [  
-          "Massive",
-          "Cock",
-          "Tight",
-          "Pussy",
-          "Sexy",
-          "Hot",
-          "Grip"
-        ],
-        "keywords": [
-          "Massiv Cock",
-          "Tight Pussy",
-          "Big cock",
-          "Pussy",
-          "Sexy",
-          "Hot",
-          "Grip",
-          "White",
-          "Bold"
-        ]
-      }
-
-    ]
-  }
+      "id": "5",
+      "title": "Anime Porn - Sucking Penus, Lund",
+      "video": "WEBP-Assets/5 Anime-Sucking-Penus.mp4",
+      "category": "Funny",
+      "subcategories": [
+        "Penis",
+        "Lund",
+        "PlayingFul",
+        "Sucking"
+      ],
+      "keywords": [
+        "Penis",
+        "Lund",
+        "PlayingFul",
+        "Sucking",
+        "Lund",
+        "PlayingFul",
+        "Sucking",
+        "Licking"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Anime Fucking Purely",
+      "video": "WEBP-Assets/6 Anime-Fcking-Purely.mp4",
+      "category": "Funny",
+      "subcategories": [
+        "Tight Pussy",
+        "Purely",
+        "Fucking",
+        "Sexy",
+        "Hot",
+        "Grip"
+      ],
+      "keywords": [
+        "Rough",
+        "Purely",
+        "Fucking",
+        "Sexy",
+        "Hot",
+        "Grip"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Massive cock tight",
+      "video": "WEBP-Assets/7_Massive-cock-tight.mp4",
+      "category": "Funny",
+      "subcategories": [
+        "Massive",
+        "Cock",
+        "Tight",
+        "Pussy",
+        "Sexy",
+        "Hot",
+        "Grip"
+      ],
+      "keywords": [
+        "Massiv Cock",
+        "Tight Pussy",
+        "Big cock",
+        "Pussy",
+        "Sexy",
+        "Hot",
+        "Grip",
+        "White",
+        "Bold"
+      ]
+    }
+  ]
+}
